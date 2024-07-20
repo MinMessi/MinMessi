@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![test](https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dracula)
+![test](https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&layout=compact&theme=dracula)
 <!--
 **MinMessi/MinMessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
