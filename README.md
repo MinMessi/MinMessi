@@ -1,25 +1,37 @@
 <div align="center">
+
+  <!-- README TITLE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:0000FF&height=240&text=Welcome%20Gomin.Devlog!&animation=&fontColor=ffffff&fontSize=70" width="1000" />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:0000FF&height=240&text=Welcome%20Gomin.Devlog!&animation=&fontColor=ffffff&fontSize=70" width="1000" />   
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinMessi%2Fgjbae1212%2Fhit-counter&count_bg=%23000BF6&title_bg=%23FF0066&icon=openai.svg&icon_color=%23C4FF00&title=Hits%20Count&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
+  <!--
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  <!--
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
   -->
 
+  <div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="height: 195px;"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark&layout=compact&card_width=340" alt="Top Langs" style="height: 195px;"/>
+    </a>
+  </div>
 
-<br/>
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=100&text=🧑🏻‍💻My%20Skill%20Set&fontColor=ffffff&fontSize=50)
+  <br/>
+  
+  <!-- Hits 조회수 표현-->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinMessi%2Fgjbae1212%2Fhit-counter&count_bg=%23000BF6&title_bg=%23FF0066&icon=openai.svg&icon_color=%23C4FF00&title=Hits%20Count&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  <br/>
 
 
-#  Skill Set
+<!-- 공부중인 스킬셋 표현-->
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=100&text=🧑🏻‍💻My%20Studying%20Skill%20Set🌱&fontColor=ffffff&fontSize=50)
+
 ### Co-Work(Communication)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 <img src="https://img.shields.io/badge/gitkraken-179287?style=badge&logo=gitkraken&logoColor=white"/>
@@ -67,22 +79,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
 
-
-<!--
-**MinMessi/MinMessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<br/>
 <br/>
 <br/>
 
