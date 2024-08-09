@@ -14,7 +14,8 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi/MinMessi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br/>
