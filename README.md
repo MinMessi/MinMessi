@@ -13,10 +13,10 @@
 
   <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="height: 195px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="height: 195px; width: 45%"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark&layout=compact&card_width=340" alt="Top Langs" style="height: 195px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark&layout=compact&card_width=340" alt="Top Langs" style="height: 195px; width: 45%"/>
     </a>
   </div>
 
