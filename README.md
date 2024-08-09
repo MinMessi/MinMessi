@@ -1,20 +1,13 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:0000FF&height=240&text=Welcome&animation=&fontColor=ffffff&fontSize=90" width="1000" />
-   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:0000FF&height=240&text=Welcome%20Gomin.Devlog!&animation=&fontColor=ffffff&fontSize=70" width="1000" />   
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-3nd-1Team&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=120&text=MinMessi%20Gomin.Devlog!&fontColor=ffffff&width=1000" width="1000" />
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinMessi%2Fgjbae1212%2Fhit-counter&count_bg=%23000BF6&title_bg=%23FF0066&icon=openai.svg&icon_color=%23C4FF00&title=Hits%20Count&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 
