@@ -33,7 +33,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=100&text=🧑🏻‍💻My%20Studying%20Skill%20Set🌱&fontColor=ffffff&fontSize=50)
 
 ### Co-Work(Communication)
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 <img src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white"/>
