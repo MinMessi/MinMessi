@@ -1,7 +1,10 @@
-<div align="center">
+<!-- README TITLE -->
+<h1 align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1000&pause=500&color=31FF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+World+!;+I'm+MinMessi+;Welcome+to+my+Devlog+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
 
-  <!-- README TITLE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:0000FF&height=240&text=Welcome%20Gomin.Devlog!&animation=&fontColor=ffffff&fontSize=70" width="1000" />
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/<MinMessi>/count.svg">
   
   <!--
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,24 +16,21 @@
 
   <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="height: 195px; width: 45%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MinMessi&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="height: 200px; width: 49%"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark&layout=compact&card_width=340" alt="Top Langs" style="height: 195px; width: 45%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinMessi&theme=dark&layout=compact&card_width=340" alt="Top Langs" style="height: 200px; width: 49%"/>
     </a>
   </div>
 
 
   <br/>
   
-  <!-- Hits 조회수 표현-->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MinMessi%2Fgjbae1212%2Fhit-counter&count_bg=%23000BF6&title_bg=%23FF0066&icon=openai.svg&icon_color=%23C4FF00&title=Hits%20Count&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  <br/>
+   <br/>
 
 
 <!-- 공부중인 스킬셋 표현-->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=100&text=🧑🏻‍💻My%20Studying%20Skill%20Set🌱&fontColor=ffffff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=000000&height=50&text=🧑🏻‍💻My%20Studying%20Skill%20Set&fontColor=ffffff&fontSize=20)
 
 ### Co-Work(Communication)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
