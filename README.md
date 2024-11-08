@@ -44,6 +44,7 @@
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
 <img src="https://img.shields.io/badge/vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -86,6 +87,7 @@
 <img src="https://img.shields.io/badge/PEFT-4A90E2?style=for-the-badge&logo=peft&logoColor=white"/>
 <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weights-and-biases&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLama-7289DA?style=for-the-badge&logo=llama&logoColor=white"/>
+<img src="https://img.shields.io/badge/polyglot--ko--1.3b-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 
 <br>
